@@ -1,0 +1,18 @@
+; checking secureload
+SECURELOAD
+0
+;Loading the .Net module
+netload
+;specifying the file directory
+"C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\bin\Debug\AcCoreConsoleTests.dll"
+; Run the command
+EntBreakup
+
+;
+;
+; The rest of the code is below
+;Loading the .Net module
+;(command "_.Netload"""C:\\Users\\Koshy\\Documents\\Visual Studio 2013\\Projects\\AcCoreConsoleTests\\AcCoreConsoleTests\\bin\\Debug\\AcCoreConsoleTests.dll"")
+;
+; Run the command
+;(command "EntBreakup")

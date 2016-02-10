@@ -1,0 +1,7 @@
+;Loading the .Net module
+netload 
+
+;specifying the file directory
+"C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\bin\Debug\AcCoreConsoleTests.dll"
+; Run the command
+EntBreakup

@@ -1,0 +1,2 @@
+FOR /f "usebackq" %%f IN ('dir /b "C:\Users\Koshy\Documents\Drawings and Clients\Bianco\*.dwg"') DO "C:\Program Files\Autodesk\AutoCAD 2015\accoreconsole.exe" /i "%%f" /s "C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\RunCustomNETCmdFromBat.scr" /l en-US 
+PAUSE

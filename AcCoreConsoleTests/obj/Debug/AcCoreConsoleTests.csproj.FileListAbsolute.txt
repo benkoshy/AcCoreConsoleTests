@@ -1,0 +1,7 @@
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\bin\Debug\AcCoreConsoleTests.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\bin\Debug\AcCoreConsoleTests.pdb
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\obj\Debug\AcCoreConsoleTests.csprojResolveAssemblyReference.cache
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\obj\Debug\AcCoreConsoleTests.MyCommands.resources
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\obj\Debug\AcCoreConsoleTests.csproj.GenerateResource.Cache
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\obj\Debug\AcCoreConsoleTests.dll
+C:\Users\Koshy\Documents\Visual Studio 2013\Projects\AcCoreConsoleTests\AcCoreConsoleTests\obj\Debug\AcCoreConsoleTests.pdb
